@@ -1,4 +1,3 @@
-
 import { ApexOptions } from 'apexcharts';
 
 export const TotalRevenueSeries = [
